@@ -1,0 +1,40 @@
+body {
+	background: rgb(224, 224, 224);
+	height: 1000px;
+}
+
+#title {
+	color: rgb(255, 82, 82);
+	font-family: Verdana;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px rgb(0, 0, 0), -1px -1px 0px rgb(0, 0, 0);
+}
+
+#content {
+	width: 55%;
+	height: 100%;
+	background: rgb(234, 234, 234);
+	margin: auto;
+	border: 1px solid rgb(202, 202, 202);
+	box-shadow: 0px 0px 3px 0px rgb(207, 207, 207);
+}
+
+#createpagelink {
+	color: rgb(145, 2, 2);
+	text-align: center;
+	text-decoration: none;
+	font-family: verdana;
+	font-size: 30px;
+	display: block;
+}
+
+#createbutton {
+	width: 294px;
+	margin: 77px auto;
+	background: rgb(255, 77, 77);
+	padding: 10px 20px 10px 20px;
+	border: 2px solid rgb(187, 53, 53);
+	border-radius: 2px;
+}
